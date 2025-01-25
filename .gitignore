@@ -1,1 +1,9 @@
+# CMake build folder
 build
+
+# Python virtual environment
+venv
+
+#conan CMakepreset
+
+CMakeUserPresets.json
