@@ -1,0 +1,9 @@
+[requires]
+sdl/2.30.9
+
+[tool_requires]
+cmake/3.31.3
+
+[generators]
+CMakeDeps
+CMakeToolchain
