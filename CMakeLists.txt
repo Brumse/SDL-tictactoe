@@ -13,3 +13,5 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY
 
 # 3rd party libraries
 find_package(SDL2 REQUIRED CONFIG)
+
+add_subdirectory(src)
